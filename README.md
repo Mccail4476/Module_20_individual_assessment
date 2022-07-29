@@ -18,14 +18,23 @@ This team did an amazing job on what their roles.
 Our project can easily be shown off on Linkedin or Github to current/future employers as the webpage showcases our skillsets. Whether it involves machine learning or creating a webpage, our project shows everyone who sees it what we are capable of as we all have taken the same bootcamp. Our project primarily used the following:
 
 -Python
-- Pandas
+
+-Pandas
+
 -HTML
-- JavaScript
-- CSS
+
+-JavaScript
+
+-CSS
+
 -Tableau
+
 -R
+
 -Machine Learning
+
 -SQL
+
 -AWS
 
 The results of the project showed that even though we couldn't find a strong claim to our hypothesis, we were able to thoroughly dig into the datasets and evenly distribute the workload in an effective manner. 
